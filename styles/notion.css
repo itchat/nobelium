@@ -2,6 +2,7 @@
 
 .notion {
   font-family: 'Josefin Sans', 'ZCOOL XiaoWei';
+  font-display: block;
   @apply text-gray-600 dark:text-gray-300;
   overflow-wrap: break-word;
 }
@@ -42,7 +43,8 @@ svg + .notion-page-title-text {
 }
 
 .notion-code > code{
-  font-family: 'Josefin Sans'
+  font-family: 'Josefin Sans';
+  font-display: block;
 }
 
 pre[class*='language-'] {

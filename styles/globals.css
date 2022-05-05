@@ -4,6 +4,7 @@
 /* josefin-sans-regular - latin */
 @font-face {
   font-family: 'Josefin Sans';
+  font-display: block;
   font-style: normal;
   font-weight: 400;
   src: local(''),
@@ -12,6 +13,7 @@
 /* josefin-sans-italic - latin */
 @font-face {
   font-family: 'Josefin Sans';
+  font-display: block;
   font-style: italic;
   font-weight: 400;
   src: local(''),
@@ -21,6 +23,7 @@
 /* zcool-xiaowei-regular - chinese-simplified */
 @font-face {
   font-family: 'ZCOOL XiaoWei';
+  font-display: block;
   font-style: normal;
   font-weight: 400;
   src: local(''),
