@@ -38,13 +38,7 @@ const Layout = ({
           <nav className="flex mt-7 items-start text-gray-500 dark:text-gray-400">
             <div className="flex mb-4">
               <a href={BLOG.socialLink || '#'} className="flex">
-                <Image
-                  alt={BLOG.author}
-                  width={24}
-                  height={24}
-                  src={`https://gravatar.com/avatar/${emailHash}`}
-                  className="rounded-full"
-                />
+                <svg width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="24" cy="11" r="7" fill="none" stroke="#333" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" /><path d="M4 41C4 32.1634 12.0589 25 22 25" stroke="#333" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" /><path d="M31 42L41 32L37 28L27 38V42H31Z" fill="none" stroke="#333" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" /></svg>
                 <p className="ml-2 md:block">{BLOG.author}</p>
               </a>
               <span className="block">&nbsp;/&nbsp;</span>

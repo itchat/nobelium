@@ -43,7 +43,7 @@ svg + .notion-page-title-text {
 }
 
 .notion-code > code{
-  font-family: 'Josefin Sans';
+  /* font-family: 'Noto Sans SC'; */
   font-display: block;
 }
 
