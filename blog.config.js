@@ -1,5 +1,5 @@
 const BLOG = {
-  title: "Home - a ronin's blog",
+  title: "Just did it - ronin's blog",
   author: 'ronin',
   email: 'cat@galahad.ga',
   link: 'https://execution.icu',
@@ -22,7 +22,7 @@ const BLOG = {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
-  notionPageId: '31dfee99cb1b4af6ac51f21ae491083d', // DO NOT CHANGE THIS！！！process.env.NOTION_PAGE_ID
+  notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！process.env.NOTION_PAGE_ID
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   analytics: {
     provider: '', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.

@@ -69,18 +69,11 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-                <svg width="24" height="24" viewBox="0 0 49 50" fill="none"
-                    xmlns="http://www.w3.org/2000/svg">
-                    <rect width="49" height="49.0559" fill="white" fillOpacity="0.01" />
-                    <ellipse cx="17.6777" cy="17.6777" rx="9" ry="16" transform="rotate(-45 17.6777 17.6777)" stroke="#9c1921"
-                        strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
-                    <ellipse rx="9" ry="16" transform="matrix(0.707107 0.707107 0.707107 -0.707107 17.6777 31.3783)" stroke="#9c1921"
-                        strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
-                    <ellipse rx="9" ry="16" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 31.3223 17.6777)" stroke="#9c1921"
-                        strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
-                    <ellipse cx="31.3223" cy="31.3783" rx="9" ry="16" transform="rotate(135 31.3223 31.3783)" stroke="#9c1921"
-                        strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
-                </svg>
+              <svg width="24" height="24" viewBox="0 0 48 48" fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path d="M31 21L35 18L44 24V34L34 40L24 34V13L13 7L4 13V24L13 30L17 27" stroke="#9c1921" strokeWidth="4"
+                      strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
               </div>
             </a>
           </Link>
