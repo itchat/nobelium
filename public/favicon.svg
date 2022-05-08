@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 12L38 42H4L21 12Z" stroke="#9f7d4f" stroke-width="4" stroke-linejoin="round"/><path d="M36.5 42H44L36 28L33 33" stroke="#9f7d4f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 12L13 42" stroke="#9f7d4f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8"?><svg width="48" height="48" viewBox="0 0 49 50" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <rect width="49" height="49.0559" fill="white" fill-opacity="0.01" />
+    <ellipse cx="17.6777" cy="17.6777" rx="9" ry="16" transform="rotate(-45 17.6777 17.6777)" stroke="#9c1921"
+        stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse rx="9" ry="16" transform="matrix(0.707107 0.707107 0.707107 -0.707107 17.6777 31.3783)" stroke="#9c1921"
+        stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse rx="9" ry="16" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 31.3223 17.6777)" stroke="#9c1921"
+        stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="31.3223" cy="31.3783" rx="9" ry="16" transform="rotate(135 31.3223 31.3783)" stroke="#9c1921"
+        stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
