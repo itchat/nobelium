@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '𝓻𝓸𝓷𝓲𝓷',
+  title: 'moonlight',
   author: 'ronin',
   email: 'cat@galahad.ga',
   link: 'https://execution.icu',
-  description: 'ʕ•́ᴥ•̀ʔっ♡',
+  description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
