@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'moonlight',
+  title: "◍'ㅅ'◍",
   author: 'ronin',
   email: 'cat@galahad.ga',
   link: 'https://execution.icu',
