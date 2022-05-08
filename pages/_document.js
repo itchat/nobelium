@@ -66,7 +66,6 @@ class MyDocument extends Document {
               )}
 
           <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-          <link rel="apple-touch-icon" href="/favicon.svg"></link>
           <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/feed"></link>
           {BLOG.appearance === 'auto'
             ? (
