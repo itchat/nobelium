@@ -3,11 +3,12 @@
 
 <head>
     <link rel="icon" href="favicon.svg">
-    <title>CPP Compiler</title>
+    <title>Dynamic Language Compiler</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link href="//codefence.io/codefence.css" rel="stylesheet">
 
     <style>
@@ -20,13 +21,12 @@
 <body class="none" style="background-color: rgb(31,36,48)">
     </div>
 
-    <pre><code-fence lang="c++" switcher="false" heading="CPP">
+    <pre><code-fence lang="java" switcher="true" heading="Dynamic Language Selection">
 <textarea vue-slot="code">
-#include <iostream>
-using namespace std;
-
-int main(){
-  return 0;
+class Main {
+    public static void main(String args[]) {
+        System.out.println("Hello World from Java");
+    }
 }
 </textarea>
         </code-fence></pre>
