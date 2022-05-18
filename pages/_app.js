@@ -1,5 +1,6 @@
 import 'prismjs'
 import 'prismjs/themes/prism-tomorrow.css'
+import 'prismjs/components/prism-markdown'
 import 'prismjs/components/prism-java'
 import 'prismjs/components/prism-python'
 import 'prismjs/components/prism-c'
