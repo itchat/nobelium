@@ -22,12 +22,12 @@
 
 /* zcool-xiaowei-regular - chinese-simplified */
 @font-face {
-  font-family: 'ZCOOL XiaoWei';
+  font-family: 'Hanyi Round';
   font-display: block;
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('/fonts/zcool-xiaowei-v10-chinese-simplified-regular.woff2') format('woff2');
+       url('/fonts/hanyirunyuan-chinese-simplified-regular.woff2') format('woff2');
 }
 
 html {

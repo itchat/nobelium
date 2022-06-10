@@ -1,7 +1,7 @@
 /* NOTION CSS OVERRIDE */
 
 .notion {
-  font-family: 'Josefin Sans', 'ZCOOL XiaoWei';
+  font-family: 'Josefin Sans', 'Hanyi Round';
   font-display: block;
   @apply text-gray-600 dark:text-gray-300;
   overflow-wrap: break-word;
@@ -43,7 +43,6 @@ svg + .notion-page-title-text {
 }
 
 .notion-code > code{
-  /* font-family: 'Noto Sans SC'; */
   font-display: block;
 }
 

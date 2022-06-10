@@ -32,7 +32,7 @@ class MyDocument extends Document {
               />
               <link
                 rel="preload"
-                href="/fonts/zcool-xiaowei-v10-chinese-simplified-regular.woff2"
+                href="/fonts/hanyirunyuan-chinese-simplified-regular.woff2"
                 as="font"
                 type="font/woff2"
                 crossOrigin="anonymous"
@@ -57,7 +57,7 @@ class MyDocument extends Document {
               />
               <link
                 rel="preload"
-                href="/fonts/zcool-xiaowei-v10-chinese-simplified-regular.woff2"
+                href="/fonts/hanyirunyuan-chinese-simplified-regular.woff2"
                 as="font"
                 type="font/woff2"
                 crossOrigin="anonymous"

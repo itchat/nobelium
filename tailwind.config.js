@@ -14,11 +14,11 @@ module.exports = {
         }
       },
       fontFamily: {
-        sans: ['"Josefin Sans"', '"ZCOOL XiaoWei"'],
-        serif: ['"Josefin Sans"', '"ZCOOL XiaoWei"'],
+        sans: ['"Josefin Sans"', '"Hanyi Round"'],
+        serif: ['"Josefin Sans"', '"Hanyi Round"'],
         noEmoji: [
           '"Josefin Sans"',
-          '"ZCOOL XiaoWei"'
+          '"Hanyi Round"'
         ]
       }
     }
